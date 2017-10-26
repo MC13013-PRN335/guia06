@@ -1,0 +1,13 @@
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/PostFacade.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/web/controladores/FrmTipoPost.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/TipoPostSeccionFacade.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/TipoPostFacade.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/PostFacadeLocal.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/definiciones/Post.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/TipoPostFacadeLocal.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/AbstractIntarface.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/definiciones/TipoPostSeccion.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/definiciones/TipoPost.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/definiciones/TipoPostSeccionPK.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/AbstractFacade.java
+/home/john/guias/guia05/src/main/java/sv/edu/uesocc/ingenieria/prn335_2017/datos/acceso/TipoPostSeccionFacadeLocal.java
